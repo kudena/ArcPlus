@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="MovieDB"
+  id="myeclipse.1342063747464"
+  context-root="/MovieDB"
+  j2ee-spec="6.0"
+  archive="MovieDB.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
